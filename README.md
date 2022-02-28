@@ -5,7 +5,7 @@ README.md
 
 - 📚 Estudando Cypress
 - 🎓 Graduada na Fac. Dom Pedro II
-- 👨‍🎓 Pós-graduada na Fac.Unijorge
+- 👨‍🎓 Pós-graduada na Fac. Unijorge
 - 📍  Salvador - BA
 
 <img src="https://komarev.com/ghpvc/?username=patysonar&color=yellow" alt="patysonar"/>
