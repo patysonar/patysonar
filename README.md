@@ -1,5 +1,5 @@
 # Patrícia Souza
-✨ README.md✨
+✨ README.md✨ 👋
  
 
 ### Olá 😊
@@ -46,6 +46,8 @@
     <a href="mailto:patysonar@gmail.com" target="_blank">
       <img align="center" alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+   
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
 
  ##
