@@ -1,5 +1,5 @@
 # Patrícia Souza
-✨ README.md✨ 👋
+✨ README.md✨
  
 
 ### Olá 😊
