@@ -41,13 +41,13 @@
   ##
   
   <div>
-    <a href="https://www.instagram.com/patysonar/" target="_blank">
-      <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="https://www.instagram.com/patysonar/" target="_blank" title="https://www.instagram.com/patysonar"/>
+      <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
     </a>
-    <a href="https://www.linkedin.com/in/paty-souza/" target="_blank">
+    <a href="https://www.linkedin.com/in/paty-souza/" target="_blank"  title="https://www.linkedin.com/in/paty-souza"/>
       <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:patysonar@gmail.com" target="_blank">
+    <a href="mailto:patysonar@gmail.com" target="_blank" title="patysonar@gmail.com"/>
       <img align="center" alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
    </div>
