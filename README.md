@@ -12,7 +12,8 @@
 <img src="https://komarev.com/ghpvc/?username=patysonar&color=yellow" alt="patysonar"/>
 
 ## ⚙️GitHub Analytics
-<div>
+
+<div align="left">
   <a href="https://github.com/patysonar">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patysonar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patysonar&layout=compact&langs_count=7&theme=dracula"/>
@@ -51,7 +52,7 @@
   </div>
 
  ##
-  
+ #### 📆 Last updated on October 27, 2021 
  
  
 
