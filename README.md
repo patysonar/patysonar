@@ -4,7 +4,7 @@
 
 ### Olá 😊
 
-- 📚 Estudando Cypress
+- 📚 Aperfeiçoando em Cypress
 - 🎓 Graduada na Fac. Dom Pedro II
 - 👨‍🎓 Pós-graduada na Fac. Unijorge
 - 📍  Salvador - BA
